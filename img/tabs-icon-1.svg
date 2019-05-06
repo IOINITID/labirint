@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1e23;
+      }
+
+      .cls-2 {
+        font-size: 16px;
+        fill: #fff;
+        font-family: GothamPro;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Монтажная_область_1" data-name="Монтажная область 1">
+    <circle id="Эллипс_2" data-name="Эллипс 2" class="cls-1" cx="21" cy="21" r="21"/>
+    <text id="_01" data-name="01" class="cls-2" x="12.502" y="26.497">01</text>
+  </g>
+</svg>
